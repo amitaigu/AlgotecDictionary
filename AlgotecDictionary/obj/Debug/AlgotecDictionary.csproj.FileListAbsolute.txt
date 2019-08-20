@@ -1,0 +1,14 @@
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\AlgotecDictionary.pdb
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\obj\Debug\AlgotecDictionary.csprojAssemblyReference.cache
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\obj\Debug\AlgotecDictionary.csproj.CoreCompileInputs.cache
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\obj\Debug\AlgotecDictionary.pdb
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\AlgotecDictionary.dll.config
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\AlgotecDictionary.dll
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\obj\Debug\AlgotecDictionary.dll
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\Dapper.dll
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\Dapper.xml
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\obj\Debug\AlgotecDictionary.csproj.CopyComplete
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\Oracle.DataAccess.dll
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\System.Data.SQLite.dll
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\System.Data.SQLite.xml
+C:\Users\amitaig\source\repos\AlgotecDictionary\AlgotecDictionary\bin\Debug\System.Data.SQLite.dll.config

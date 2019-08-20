@@ -1,0 +1,13 @@
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\bin\Debug\netcoreapp2.1\tests.deps.json
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.json
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.dev.json
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\bin\Debug\netcoreapp2.1\tests.dll
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\bin\Debug\netcoreapp2.1\tests.pdb
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\obj\Debug\netcoreapp2.1\tests.csprojAssemblyReference.cache
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\obj\Debug\netcoreapp2.1\tests.csproj.CoreCompileInputs.cache
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfoInputs.cache
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfo.cs
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\obj\Debug\netcoreapp2.1\tests.dll
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\obj\Debug\netcoreapp2.1\tests.pdb
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\bin\Debug\netcoreapp2.1\Oracle.DataAccess.dll
+C:\Users\amitaig\source\repos\AlgotecDictionary\tests\obj\Debug\netcoreapp2.1\tests.csproj.CopyComplete
